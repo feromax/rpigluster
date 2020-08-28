@@ -1,0 +1,24 @@
+- Build your RPi Gluster Cluster
+  - [Introduction](/)
+  - [Features](/features.md)
+  - [Requirements](/requirements.md)
+  - [Background](/background.md)
+  - [Physical Build](/physical_build.md)
+  - [Boot Media](/boot_media.md)
+  - [Networking](/networking.md)
+  - [Ansible Your Nodes](/ansible-nodes/)
+    - [Get Ansible](/ansible-nodes/get-ansible.md)
+    - [User accounts](/ansible-nodes/user-accts.md)
+    - [Node setup](/ansible-nodes/node-setup.md)
+  - [Storage Setup](/storage.md)
+  - [Add Services with Ansible](/ansible-services/)
+    - [Gluster](/ansible-services/gluster.md)
+    - [Samba](/ansible-services/samba.md)
+    - [Prometheus & Grafana](/ansible-services/metrics.md)
+  - [Fast Data Transfer](/data-xfer.md)
+  - [Future Work](/future-work.md)
+<br>
+
+- Featured Posts
+  - [Install RPi OS to Hard Disk](/feature1/)
+  - [Prometheus Metrics for RPi](/feature2/)

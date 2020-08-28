@@ -1,3 +1,3 @@
-# Headline
+# Introduction
 
-> An awesome project.
+Welcome to the Raspberry Pi Gluster Project!  
