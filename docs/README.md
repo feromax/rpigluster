@@ -2,15 +2,4 @@
 
 Welcome to the Raspberry Pi Gluster Project!  
 
-
-This is a code block:
-
-```bash
-#!/bin/bash
-
-echo -e 'hello, world!\n\n\n'
-```
-
-?> This is a tip.
-
-!> This is a warning!
+Please check back soon as this site is under active development.
