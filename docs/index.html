@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Document</title>
+  <title>RPi Gluster Project</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
@@ -14,9 +14,17 @@
     window.$docsify = {
       name: 'RPi Gluster Project',
       repo: 'feromax/rpigluster',
-      loadSidebar: true
+      homepage: 'README.md',
+      loadSidebar: true,
+      copyCode: {
+        buttonText : 'copy to clipboard',
+        errorText  : 'Error!',
+        successText: 'copied!'
+      },
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+  <script src="https://unpkg.com/docsify-copy-code@2"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
 </body>
 </html>
